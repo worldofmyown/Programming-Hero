@@ -1,0 +1,19 @@
+.game{
+    border: 5px solid red;
+    margin: 1%;
+    width: 30%;
+    /*display: inline-block;*/
+    border-radius: 4px;
+    padding: 2px;
+    float: left;
+    background-color: aqua;
+}
+.fifa{
+    color: rgb(151, 65, 65);
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.design{
+    text-align: justify;
+}
